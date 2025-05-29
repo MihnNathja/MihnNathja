@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Nhật</h1>
 <h3 align="center">✨Shining</h3>
 
-- 🌱 I’m currently learning **Flutter, ReactJs**
+- 🌱 I’m currently learning **Flutter, ReactJs, NodeJs**
 
 - 📫 How to reach me **dminhnhatn@gmail.com**
 
